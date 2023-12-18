@@ -101,7 +101,10 @@ const checkPrice = async () => {
 }
 
 checkPrice();
+/*
 setInterval(() => {
   checkPrice();
 }, tradeFrequency);
+*/
+
 }
